@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1618928913493/OkxZz8Ti0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 <h1 align="center">Hi 👋, I'm Malki Madhubhashini</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 
